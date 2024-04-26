@@ -6,6 +6,8 @@ int main()
 	cout << " i hayyyyy hooo heeee";
 	cout << " i hayyyyy hooo heeee";
 	cout << " i hayyyyy hooo heeee";
+	cout << " i hayyyyy hooo heeee";
+	cout << " i hayyyyy hooo heeee";
 	return 0;
 
 }
