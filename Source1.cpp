@@ -1,13 +1,9 @@
-#include<iostream>
-using namespace std;
-int main()
-{
-	cout << " asssssssssssssd";
-	cout << " i hayyyyy hooo heeee";
-	cout << " i hayyyyy hooo heeee";
-	cout << " i hayyyyy hooo heeee";
-	cout << " i hayyyyy hooo heeee";
-	cout << " i hayyyyy hooo heeee";
+ysssssssd";
+	cout << " heloooooooo gggggggg";
+	cout << " heloooooooo gggggggg";
+	cout << " heloooooooo gggggggg";
+	cout << " welcommmmmm to my chanolll.";
+	cout << " baki baty bad may but mari chai ";
 	return 0;
 
 }
